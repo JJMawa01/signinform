@@ -64,7 +64,10 @@ h1,h2{
 	border: 2px solid white;
 	background: transparent;
 	border-radius: 10px;
-	color: whitesmoke;
+	color: white;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+
 	
 }
 .form-group .btn-inf{
